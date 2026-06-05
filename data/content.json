@@ -1,15 +1,15 @@
 {
   "site": {
-    "pageTitle": "Al Noor Academy | One Page Overview",
+    "pageTitle": "Ysr Academy",
     "language": "en",
     "direction": "ltr"
   },
   "hero": {
-    "name": "Al Noor Academy",
+    "name": "Ysr Academy",
     "tagline": "A calm, focused learning environment built to help students grow with confidence, consistency, and strong academic support.",
     "logo": {
-      "src": "assets/al-noor-logo.svg",
-      "alt": "Al Noor Academy logo"
+      "src": "assets/logo.jpeg",
+      "alt": "Ysr Academy logo"
     },
     "highlights": [
       "Small groups",
@@ -19,33 +19,21 @@
     ],
     "primaryAction": {
       "label": "Contact on WhatsApp",
-      "href": "https://wa.me/201234567890",
+      "href": "https://wa.me/971558480650",
       "newTab": true
     },
     "secondaryAction": {
-      "label": "View Location",
+      "label": "",
       "href": "#contact-section",
       "newTab": false
     },
     "sidePanel": {
-      "label": "Why Families Choose This Academy",
-      "summary": "The academy combines clear teaching, regular follow-up, and a welcoming environment so students can improve step by step without pressure.",
+      "label": "",
+      "summary": "",
       "stats": [
         {
-          "value": "8+",
-          "label": "Years of teaching"
-        },
-        {
-          "value": "600+",
-          "label": "Students supported"
-        },
-        {
-          "value": "92%",
-          "label": "Parent satisfaction"
-        },
-        {
-          "value": "5",
-          "label": "Weekly study tracks"
+          "value": "",
+          "label": ""
         }
       ]
     }
@@ -74,7 +62,7 @@
     "story": {
       "title": "Short Brief",
       "paragraphs": [
-        "Al Noor Academy is a learning center that supports students through organized courses, committed instructors, and close academic follow-up.",
+        "Ysr Academy is a learning center that supports students through organized courses, committed instructors, and close academic follow-up.",
         "The academy is built for students who need a serious but comfortable place to study, revise, and improve their results over time."
       ],
       "bullets": [
@@ -103,9 +91,9 @@
           "text": "Strong parent satisfaction based on communication, discipline, and noticeable progress."
         },
         {
-          "value": "1:12",
+          "value": "1:1",
           "title": "Teacher to Student Ratio",
-          "text": "Smaller groups help teachers notice weak points earlier and support students more closely."
+          "text": "One-on-one sessions help teachers notice weak points earlier and support students more closely."
         }
       ]
     }
@@ -159,7 +147,7 @@
       {
         "name": "Starter Plan",
         "description": "A simple entry option for students who want consistent weekly support.",
-        "price": "1,200 EGP",
+        "price": "800 Dirham",
         "billing": "per month",
         "audience": "New students",
         "duration": "8 sessions",
@@ -172,7 +160,7 @@
       {
         "name": "Progress Plan",
         "description": "A balanced plan for students who need stronger follow-up and extra revision time.",
-        "price": "1,850 EGP",
+        "price": "1,150 Dirham",
         "billing": "per month",
         "audience": "Regular learners",
         "duration": "12 sessions",
@@ -185,7 +173,7 @@
       {
         "name": "Excellence Plan",
         "description": "A more complete subscription with closer support and higher-intensity preparation.",
-        "price": "2,500 EGP",
+        "price": "1,500 Dirham",
         "billing": "per month",
         "audience": "Exam-focused students",
         "duration": "16 sessions",
@@ -202,25 +190,32 @@
     "intro": "",
     "items": [
       {
-        "type": "image",
-        "title": "Reception And Welcome Area",
-        "caption": "A first look at the academy’s calm and organized entrance space.",
-        "src": "assets/gallery-1.svg",
-        "alt": "Reception area"
+        "type": "video",
+        "title": "",
+        "caption": "",
+        "src": "assets/introVideo.mp4",
+        "alt": ""
       },
       {
         "type": "image",
-        "title": "Classroom Setting",
-        "caption": "A sample classroom layout prepared for guided instruction and active discussion.",
-        "src": "assets/gallery-2.svg",
-        "alt": "Classroom"
+        "title": "",
+        "caption": "",
+        "src": "assets/6.jpeg",
+        "alt": ""
       },
       {
         "type": "image",
-        "title": "Student Activity Session",
-        "caption": "A flexible area where students can revise, collaborate, and receive support after class.",
-        "src": "assets/gallery-3.svg",
-        "alt": "Student activity session"
+        "title": "",
+        "caption": "",
+        "src": "assets/5.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "title": "",
+        "caption": "",
+        "src": "assets/4.jpeg",
+        "alt": ""
       }
     ]
   },
@@ -249,62 +244,62 @@
     ]
   },
   "contact": {
-    "heading": "Contact And Location",
+    "heading": "Contact Information",
     "intro": " ",
     "details": [
       {
         "label": "WhatsApp",
-        "value": "+20 123 456 7890",
-        "href": "https://wa.me/201234567890",
+        "value": "+971 55 848 0650",
+        "href": "https://wa.me/971558480650",
         "newTab": true
       },
       {
         "label": "Phone Number",
-        "value": "+20 123 456 7890",
-        "href": "tel:+201234567890",
+        "value": "+971 55 848 0650",
+        "href": "tel:+971558480650",
         "newTab": false
       },
       {
-        "label": "Address",
-        "value": "12 Learning Street, Nasr City, Cairo",
-        "href": "https://maps.google.com/?q=12+Learning+Street+Nasr+City+Cairo",
+        "label": "",
+        "value": "",
+        "href": "",
         "newTab": true
       },
       {
-        "label": "Working Hours",
-        "value": "Saturday to Thursday | 10:00 AM - 9:00 PM"
+        "label": "",
+        "value": ""
       }
     ],
     "location": {
-      "title": "Al Noor Academy location map",
-      "embedUrl": "https://www.google.com/maps?q=Nasr%20City%20Cairo&z=14&output=embed"
+      "title": "",
+      "embedUrl": ""
     },
     "socialLinks": [
       {
         "label": "Facebook",
-        "handle": "facebook.com/alnooracademy",
-        "href": "https://facebook.com/",
+        "handle": "facebook.com/share/1Av6CnG2rR/",
+        "href": "https://www.facebook.com/share/1Av6CnG2rR/",
         "callToAction": "Follow",
         "newTab": true
       },
       {
         "label": "Instagram",
-        "handle": "@alnooracademy",
-        "href": "https://instagram.com/",
+        "handle": "@ysr_academy",
+        "href": "https://www.instagram.com/ysr_academy?igsh=MWZ0dm05N2ZjOG45Mg==",
         "callToAction": "See Photos",
         "newTab": true
       },
       {
         "label": "TikTok",
-        "handle": "@alnooracademy",
-        "href": "https://tiktok.com/",
+        "handle": "@yousr_academy",
+        "href": "https://www.tiktok.com/@yousr_academy?_r=1&_t=ZS-96xb4BdK34X",
         "callToAction": "Watch Clips",
         "newTab": true
       },
       {
-        "label": "YouTube",
-        "handle": "Al Noor Academy",
-        "href": "https://youtube.com/",
+        "label": "SnapChat",
+        "handle": "ysr_academy634",
+        "href": "https://www.snapchat.com/add/ysr_academy634?share_id=CBNCmGDmLFE&locale=ar-AE",
         "callToAction": "View Videos",
         "newTab": true
       }

@@ -1,15 +1,15 @@
 {
   "site": {
-    "pageTitle": "أكاديمية النور | نظرة عامة في صفحة واحدة",
+    "pageTitle": "أكاديمية يُسر",
     "language": "ar",
     "direction": "rtl"
   },
   "hero": {
-    "name": "أكاديمية النور",
+    "name": "أكاديمية يُسر",
     "tagline": "بيئة تعليمية هادئة ومنظمة تساعد الطلاب على التقدم بثقة واستمرار مع دعم أكاديمي قوي.",
     "logo": {
-      "src": "assets/al-noor-logo.svg",
-      "alt": "شعار أكاديمية النور"
+      "src": "assets/logo.jpeg",
+      "alt": "شعار أكاديمية يُسر"
     },
     "highlights": [
       "مجموعات صغيرة",
@@ -19,33 +19,21 @@
     ],
     "primaryAction": {
       "label": "تواصل عبر واتساب",
-      "href": "https://wa.me/201234567890",
+      "href": "https://wa.me/971558480650",
       "newTab": true
     },
     "secondaryAction": {
-      "label": "عرض الموقع",
+      "label": "",
       "href": "#contact-section",
       "newTab": false
     },
     "sidePanel": {
-      "label": "لماذا تختار العائلات هذه الأكاديمية",
-      "summary": "تجمع الأكاديمية بين الشرح الواضح والمتابعة المنتظمة والبيئة المرحبة حتى يتحسن الطلاب خطوة بخطوة دون ضغط.",
+      "label": "",
+      "summary": "",
       "stats": [
         {
-          "value": "8+",
-          "label": "سنوات من التدريس"
-        },
-        {
-          "value": "600+",
-          "label": "طالب تم دعمهم"
-        },
-        {
-          "value": "92%",
-          "label": "رضا أولياء الأمور"
-        },
-        {
-          "value": "5",
-          "label": "مسارات دراسية أسبوعية"
+          "value": "",
+          "label": ""
         }
       ]
     }
@@ -74,7 +62,7 @@
     "story": {
       "title": "نبذة قصيرة",
       "paragraphs": [
-        "أكاديمية النور مركز تعليمي يدعم الطلاب من خلال دورات منظمة ومدربين ملتزمين ومتابعة أكاديمية قريبة.",
+        "أكاديمية يُسر مركز تعليمي يدعم الطلاب من خلال دورات منظمة ومدربين ملتزمين ومتابعة أكاديمية قريبة.",
         "تم تصميم الأكاديمية للطلاب الذين يحتاجون إلى مكان جاد ومريح للدراسة والمراجعة وتحسين نتائجهم مع الوقت."
       ],
       "bullets": [
@@ -103,9 +91,9 @@
           "text": "رضا قوي من أولياء الأمور بناءً على التواصل والانضباط والتقدم الملحوظ."
         },
         {
-          "value": "1:12",
+          "value": "1:1",
           "title": "نسبة المعلم إلى الطالب",
-          "text": "المجموعات الأصغر تساعد المعلمين على ملاحظة نقاط الضعف مبكرًا ودعم الطلاب بشكل أقرب."
+          "text": "حصص فردية تساعد المعلمين على ملاحظة نقاط الضعف مبكرًا ودعم الطلاب بشكل أقرب."
         }
       ]
     }
@@ -159,7 +147,7 @@
       {
         "name": "الخطة الأساسية",
         "description": "خيار دخول بسيط للطلاب الذين يريدون دعمًا أسبوعيًا منتظمًا.",
-        "price": "1,200 جنيه",
+        "price": "800 درهم إماراتي",
         "billing": "شهريًا",
         "audience": "طلاب جدد",
         "duration": "8 حصص",
@@ -172,7 +160,7 @@
       {
         "name": "خطة التقدم",
         "description": "خطة متوازنة للطلاب الذين يحتاجون إلى متابعة أقوى ووقت إضافي للمراجعة.",
-        "price": "1,850 جنيه",
+        "price": "1,150 درهم إماراتي",
         "billing": "شهريًا",
         "audience": "طلاب منتظمون",
         "duration": "12 حصة",
@@ -185,7 +173,7 @@
       {
         "name": "خطة التميز",
         "description": "اشتراك أكثر شمولًا مع دعم أقرب وتحضير أعلى كثافة.",
-        "price": "2,500 جنيه",
+        "price": "1,500 درهم إماراتي",
         "billing": "شهريًا",
         "audience": "طلاب يركزون على الامتحانات",
         "duration": "16 حصة",
@@ -200,27 +188,34 @@
   "media": {
     "heading": "الصور والفيديوهات",
     "intro": "",
-    "items": [
+   "items": [
       {
-        "type": "image",
-        "title": "منطقة الاستقبال والترحيب",
-        "caption": "نظرة أولى على مدخل الأكاديمية الهادئ والمنظم.",
-        "src": "assets/gallery-1.svg",
-        "alt": "منطقة الاستقبال"
+        "type": "video",
+        "title": "",
+        "caption": "",
+        "src": "assets/introVideo.mp4",
+        "alt": ""
       },
       {
         "type": "image",
-        "title": "قاعة الدراسة",
-        "caption": "نموذج لفصل دراسي مجهز للتدريس الموجه والنقاش الفعّال.",
-        "src": "assets/gallery-2.svg",
-        "alt": "قاعة الدراسة"
+        "title": "",
+        "caption": "",
+        "src": "assets/6.jpeg",
+        "alt": ""
       },
       {
         "type": "image",
-        "title": "جلسة نشاط للطلاب",
-        "caption": "مساحة مرنة يمكن للطلاب فيها المراجعة والتعاون والحصول على دعم بعد الحصة.",
-        "src": "assets/gallery-3.svg",
-        "alt": "جلسة نشاط للطلاب"
+        "title": "",
+        "caption": "",
+        "src": "assets/5.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "title": "",
+        "caption": "",
+        "src": "assets/4.jpeg",
+        "alt": ""
       }
     ]
   },
@@ -229,83 +224,83 @@
     "intro": "",
     "items": [
       {
-        "quote": "كان الشرح واضحًا، وساعدتني المتابعة المنتظمة على الالتزام طوال الفصل الدراسي.",
-        "name": "مريم ح.",
-        "result": "تحسن من 71% إلى 88%",
+        "quote": "ماشاء الله ممتازين وبنتي مرتاحة مع المعلمات  كثير  انشاء الله للأفضل",
+        "name": "رأي ولية أمر ",
+        "result": "",
         "avatar": "assets/student-1.svg"
       },
       {
-        "quote": "صنعت الأكاديمية روتين دراسة جاد لابني، ولاحظنا تقدمًا في الثقة والدرجات معًا.",
+        "quote": "ممتاز الحمدلله استفادت وفهمت عليه ما في أي مشاكل",
         "name": "رأي ولي أمر",
-        "result": "حضور أفضل وأداء أقوى في الامتحانات",
+        "result": "",
         "avatar": "assets/student-2.svg"
       },
       {
-        "quote": "قدّم المعلمون ملاحظات عملية بعد كل تقييم، وهذا سهّل عليّ تصحيح الأخطاء بسرعة.",
-        "name": "عمر ك.",
-        "result": "أكمل مسار الاستعداد للامتحانات بتميز",
+        "quote": "السلام عليكم أكاديمية أنا أشكركم على تسجي والاهتمام ما شاء الله عليكم وأنا حتى إذا غابنا تس علينا متى تبدون ما شاء الله عليكم الله يجزيكم خير صراحة ما في أحسن منكم والصبر على الظروف🌹💐💐💐❤️❤️❤️❤️❤️❤️",
+        "name": "طالب",
+        "result": "",
         "avatar": "assets/student-3.svg"
       }
     ]
   },
   "contact": {
-    "heading": "التواصل والموقع",
+    "heading": "معلومات التواصل",
     "intro": " ",
     "details": [
       {
         "label": "واتساب",
-        "value": "+20 123 456 7890",
-        "href": "https://wa.me/201234567890",
+        "value": "٩٧١٥٥٨٤٨٠٦٥٠+",
+        "href": "https://wa.me/971558480650",
         "newTab": true
       },
       {
         "label": "رقم الهاتف",
-        "value": "+20 123 456 7890",
-        "href": "tel:+201234567890",
+        "value": "٩٧١٥٥٨٤٨٠٦٥٠+",
+        "href": "tel:+971558480650",
         "newTab": false
       },
       {
-        "label": "العنوان",
-        "value": "12 شارع ليرنينج، مدينة نصر، القاهرة",
-        "href": "https://maps.google.com/?q=12+Learning+Street+Nasr+City+Cairo",
+        "label": "",
+        "value": "",
+        "href": "",
         "newTab": true
       },
       {
-        "label": "مواعيد العمل",
-        "value": "من السبت إلى الخميس | 10:00 صباحًا - 9:00 مساءً"
+        "label": "",
+        "value": ""
       }
     ],
     "location": {
-      "title": "خريطة موقع أكاديمية النور",
-      "embedUrl": "https://www.google.com/maps?q=Nasr%20City%20Cairo&z=14&output=embed"
+      "title": "",
+      "embedUrl": ""
     },
     "socialLinks": [
       {
         "label": "فيسبوك",
-        "handle": "facebook.com/alnooracademy",
-        "href": "https://facebook.com/",
-        "callToAction": "متابعة",
+        "handle": "facebook.com/share/1Av6CnG2rR/",
+        "href": "https://www.facebook.com/share/1Av6CnG2rR/",
+        "callToAction": "تابعنا",
         "newTab": true
       },
       {
-        "label": "إنستغرام",
-        "handle": "@alnooracademy",
-        "href": "https://instagram.com/",
-        "callToAction": "عرض الصور",
+        "label": "انستاجرام",
+        "handle": "@ysr_academy",
+        "href": "https://www.instagram.com/ysr_academy?igsh=MWZ0dm05N2ZjOG45Mg==",
+        "callToAction": "تابعنا",
         "newTab": true
       },
       {
-        "label": "تيك توك",
-        "handle": "@alnooracademy",
-        "href": "https://tiktok.com/",
-        "callToAction": "مشاهدة المقاطع",
+        "label": "تيكتوك",
+        "handle": "@yousr_academy",
+        "href": "https://www.tiktok.com/@yousr_academy?_r=1&_t=ZS-96xb4BdK34X",
+        "callToAction": "تابعنا",
         "newTab": true
       },
       {
-        "label": "يوتيوب",
-        "handle": "Al Noor Academy",
-        "href": "https://youtube.com/",
-        "callToAction": "عرض الفيديوهات",
+        "label": "سناب شات",
+        "handle": "ysr_academy634",
+        "href": "https://www.snapchat.com/add/ysr_academy634?share_id=CBNCmGDmLFE&locale=ar-AE",
+        "callToAction": "تابعنا",
         "newTab": true
       }
     ]
